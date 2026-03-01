@@ -1,0 +1,1 @@
+A slow firing rifle that uses electromagnetism to launch a small metal projectile at super-sonic speed. The projectile is deadly enough to pierce most armor and scatters electrical arcs along it's flight path, making it quite lethal. Most importantly, the ammo is very easy to produce and soldiers have been known to jury-rig it to fire modified projectiles as well.

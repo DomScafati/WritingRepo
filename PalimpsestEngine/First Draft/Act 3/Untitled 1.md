@@ -1,0 +1,1 @@
+Ash talks about wanting to wake everyone soon. He's using all the recovered logs, Fifteens notes and his own notes to create a surivival bible, for when he and the other crawlers are gone. Maybe the other crawlers can add to it. Even though he won't live to see these people truly thrive, he notes that its nice that they will truly be allowed to live and die, not just continue.

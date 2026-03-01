@@ -1,0 +1,3 @@
+That foolish Governer Blue wants us to start welcoming those Moths in our dome. He's a bleeding heart fool, same thing with the administration at STAR. If there is one thing I know, its that those disgusting bugs wanted all us dead in the civil war. They're vile silver skinned moths and I know one thing, they want to ruin our way of life. Man, Jacks, and Hidefolk do not mingle with them (or the goats for that matter) and that nasty business 40-some-odd years ago proved it. Well I wont have it, I'm consolidating my gene debt to GreenWorld for when we get to our destination.
+
+I'm told we are going to the outer rim of the galaxy to a real planet. No more of this ridiculous asteroid nonsense!

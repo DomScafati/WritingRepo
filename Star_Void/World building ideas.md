@@ -1,0 +1,6 @@
+- Massive corporations
+- Indentured Servants
+- Gene debt
+- Mad clones
+- Androids
+- Mass exodus from Earth

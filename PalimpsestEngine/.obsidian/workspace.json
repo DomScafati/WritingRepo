@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "60d8ec63c549ad9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d96589005964929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2d3502c4b90fe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First Draft/Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54781eb95b6241ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "8761b6a97a6a36a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "350c1f60fe266e82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "07ae4f80e4cac2c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e5f98bcdbeaeebc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4aecb251af2a7669",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdb60f2cbb2b896c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76844ee13b8ae598",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "First Draft/First Draft Timeline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for First Draft Timeline"
+            }
+          },
+          {
+            "id": "9fc36072a0e42aea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "First Draft/First Draft Timeline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from First Draft Timeline"
+            }
+          },
+          {
+            "id": "0c81dd47ed2d4310",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f10fe8dd963ba49e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4b739b52a52cd20a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "First Draft/First Draft Timeline.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of First Draft Timeline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aa2d3502c4b90fe1",
+  "lastOpenFiles": [
+    "First Draft/Act 1/01-Mother Logs Vol 1/05- Clancy White.md",
+    "First Draft/Act 1/01-Mother Logs Vol 1/04- Clancy White.md",
+    "First Draft/Outline.md",
+    "First Draft/Act 1/01-Mother Logs Vol 1/03- Yulia Sanderson.md",
+    "First Draft/Act 1/01-Mother Logs Vol 1/02- Yulia Sanderson.md",
+    "First Draft/Act 1/01-Mother Logs Vol 1/01- Yulia Sanderson.md",
+    "First Draft/Act 1/01-Mother Logs Vol 1/07- Marie Laird.md",
+    "First Draft/Act 1/01-Mother Logs Vol 1/09- Reynauld Vega.md",
+    "First Draft/Act 1/01-Mother Logs Vol 1/08- Reynauld Vega.md",
+    "First Draft/Act 1/01-Mother Logs Vol 1/06- Marie Laird.md",
+    "First Draft/Act 1/01-Mother Logs Vol 1/010- Mother Log Run Palimpsest_engine.md",
+    "First Draft/Act 1/01-Mother Logs Vol 1/00- Mother Terminal Access Colonist Terminal.md",
+    "First Draft/Act 1/02- Ash Finds Holt's Visor/105 - Expedition 1 Team Transcript 2.md",
+    "First Draft/Act 1/02- Ash Finds Holt's Visor/104 - Iriah Holt.md",
+    "First Draft/Act 1/02- Ash Finds Holt's Visor/103- Day 6010 Ash.md",
+    "First Draft/Act 1/02- Ash Finds Holt's Visor/103 - Iriah Holt.md",
+    "First Draft/Act 1/02- Ash Finds Holt's Visor/101- Colonist's Guide to Being Stuck on an Alien World Pamphlet.md",
+    "First Draft/Act 1/02- Ash Finds Holt's Visor/100 - Shannon Afreid.md",
+    "First Draft/Act 1/02- Ash Finds Holt's Visor/0 - Batch One Notes.md",
+    "First Draft/Act 1/02- Ash Finds Holt's Visor/107 Day 6010 Ash.md",
+    "First Draft/Act 1/Shannon Ashfreid.md",
+    "First Draft/Act 1/Martynn Aasimov Seven.md",
+    "First Draft/Act 1/Fifteen's Journal.md",
+    "First Draft/Act 1/Kelly Row.md",
+    "First Draft/Act 1/Iriah Holt Two.md",
+    "First Draft/Act 1/Fifteen's Journal/300 Day 6010 Fifteen.md",
+    "First Draft/Act 1/Fifteen's Journal",
+    "First Draft/Act 3/Mother Logs Vol 3",
+    "First Draft/Act 2/Mother Logs Vol 2",
+    "First Draft/Act 1/01-Mother Logs Vol 1",
+    "First Draft/Act 1/Second Batch of Discoveries",
+    "First Draft/Act 1/02- Ash Finds Holt's Visor",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "First Draft/Act 3",
+    "First Draft/Act 2",
+    "First Draft/Act 1"
+  ]
+}

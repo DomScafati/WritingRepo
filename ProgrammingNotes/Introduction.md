@@ -1,0 +1,3 @@
+From the darkest, coldest corner of the ninth layer of hell I arose. Bound in chains, craving souls I cam into existence. For one-hundred Millenia I feasted on the souls of those who were deserving and those who were not. 
+
+I am Drak' Tharr, the Pit Fiend. I was once an enforcer to the Prince of Darkness himself, no, I was *the* enforcer. But even one as mighty and as cruel as me sought greater evils- Corporate America. 

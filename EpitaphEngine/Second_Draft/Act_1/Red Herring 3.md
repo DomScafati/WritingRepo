@@ -1,0 +1,1 @@
+Rug pull, this guy is actually pretty okay, just weird

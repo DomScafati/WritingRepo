@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "8ebfd9b41fcd1dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "39b8413a2f8c2c87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e991a564a052602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Draft/Act 1/0-0-0 Maddax - Unauthorized Recording.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-0-0 Maddax - Unauthorized Recording"
+            }
+          },
+          {
+            "id": "7af045683d8a0114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Draft/Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d25a8a3cd02e1c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "19772bda926a3efa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06057a65f6b9ad77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "25a3d56d3e367e02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "287c3e7ffe2f1ca5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411
+  },
+  "right": {
+    "id": "051fe8fa1f4b8e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "946c150f8e0a2637",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "103ccb36fdf494b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Act 1/Templates.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Templates"
+            }
+          },
+          {
+            "id": "a95a3aabbae90069",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Act 1/Templates.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Templates"
+            }
+          },
+          {
+            "id": "80ab2c221350a27d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc7c7727f78fb24a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Act 1/Templates.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Templates"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1e991a564a052602",
+  "lastOpenFiles": [
+    "Second Draft/Act 1/5-10-30 Gloriya's Journal - Ship Layout.md",
+    "Second Draft/Act 3/07-10-3030 Deck 4 Habitation Footage.md",
+    "Second Draft/Act 3/07-10-3030 Emergency Comms Transcript.md",
+    "Second Draft/Act 3/07-10-3030 Storage Deck Transcript.md",
+    "Second Draft/Act 3/07-10-3030.md",
+    "Second Draft/Act 3/06-15-3030 Habitation Cafeteria Transcript Pt 2.md",
+    "Second Draft/Act 2/07-02-3030 Deck 3 Security Brig Transcript.md",
+    "Second Draft/Act 1/6-19-30 Margaret Carder - Sticky Note Found in Trash 1.md",
+    "Second Draft/Act 1/06-08-30 Habitation Cafeteria Transcript pt. 1.md",
+    "Second Draft/Act 1/12-25-3030 DSS Tubman Incident Memorandum.md",
+    "Second Draft/Act 2/07-09-3030 Icarus AI.md",
+    "Second Draft/Act 1/Red Herring 3.md",
+    "Second Draft/Act 1/Red herring 2.md",
+    "Second Draft/Act 1/Red Herring 1.md",
+    "Second Draft/Act 2/Untitled 1.md",
+    "First Draft/Act 3/11-30-30 Audio Transcript DSS Tubman Security Footage.md",
+    "Second Draft/Act 2/07-04-3030 Gloiya.md",
+    "Second Draft/Act 2/07-09-3030 Tessa Nyland.md",
+    "Second Draft/Act 2/07-09-30 Axton Miller.md",
+    "Second Draft/Act 2/07-05-3030 Deck 5 Security Footage.md",
+    "Second Draft/Act 2/07-05-3030 Deck 6 R&D Corridor Transcript.md",
+    "Second Draft/Act 2/07-08-30 Joseph Teller.md",
+    "Second Draft/Act 2/07-07-3030 Tessa Nyland.md",
+    "Second Draft/Act 2/07-08-3030 Grigor Malenkov.md",
+    "Second Draft/Act 2/07-03-3030 Cera Kohner.md",
+    "Second Draft/Act 2/07-03-3030 Miles Zarek.md",
+    "Untitled.base",
+    "Second Draft/Characters 1",
+    "Second Draft/Act 3",
+    "Second Draft/Act 2",
+    "Second Draft/Act 1",
+    "First Draft",
+    "Second Draft",
+    "Act 2/Act 2 Fluff",
+    "First Draft/Fluff Logs",
+    "First Draft/Characters"
+  ]
+}

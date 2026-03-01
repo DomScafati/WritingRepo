@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "ec13ee1b5ccba8e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d2b689e749940b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d6f3f129626462c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Wild Cards/Fifty Stars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fifty Stars"
+            }
+          },
+          {
+            "id": "ff74b21dcb0af51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fifth Dimension/Marrow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marrow"
+            }
+          },
+          {
+            "id": "a7046d372834262e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
+            "id": "992680dde08f93c6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "6e625d174e82b144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/STAR factions/Humans/S.A.M.s.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S.A.M.s"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba609ec89265183a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7f1807e7ccc1806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "820f96b64019df32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "376cadfcd997336e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ranger test",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8fea817eea2aaae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbf24ee837387d4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e49a7891c83cf11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "917a5e94e9482cca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STAR factions/STAR Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for STAR Overview"
+            }
+          },
+          {
+            "id": "97ed720ac9ae65b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STAR factions/STAR Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from STAR Overview"
+            }
+          },
+          {
+            "id": "a133ecd4635c042b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "88cdb9e166c5306a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STAR factions/STAR Overview.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of STAR Overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6e625d174e82b144",
+  "lastOpenFiles": [
+    "Factions/STAR factions/Humans/Minute Men.md",
+    "Factions/STAR factions/Humans/Men in Black.md",
+    "Factions/STAR factions/Hidefolk/Yeti.md",
+    "Factions/Wild Cards/Rangers.md",
+    "World building ideas.md",
+    "Narrative Ideas.md",
+    "Setting",
+    "Factions/Wild Cards/Fifty Stars.md",
+    "Factions/STAR factions/Humans/S.A.M.s.md",
+    "Factions/STAR factions/Hidefolk/Sasquatch.md",
+    "Factions/STAR factions/Hidefolk/Skunk Ape.md",
+    "Factions/STAR factions/STAR Overview.md",
+    "Factions/VOID factions/VOID Overview.md",
+    "The Fifth Dimension/Marrow.md",
+    "Characters/The King in Yellow.md",
+    "Characters",
+    "Characters/The Great Spirit.md",
+    "Species.md",
+    "Events/MK Ultra.md",
+    "Factions",
+    "Events",
+    "Timeline.md",
+    "Weapons/Plasma Pistol.md",
+    "Weapons/Rail Rifle.md",
+    "Weapons/Rail Revolver.md",
+    "Weapons/Bone Blade.md",
+    "Weapons/Black Briefcase.md",
+    "Factions/Wild Cards/Mutants.md",
+    "Factions/STAR factions/Jackalopes/Moonshine Alchemists.md",
+    "Factions/STAR factions/Jackalopes/Dust Preachers.md",
+    "Factions/Wild Cards/Monsters",
+    "Weapons",
+    "The Fifth Dimension",
+    "Factions/Wild Cards",
+    "Factions/STAR factions/Hidefolk",
+    "Factions/STAR factions/Jackalopes"
+  ]
+}

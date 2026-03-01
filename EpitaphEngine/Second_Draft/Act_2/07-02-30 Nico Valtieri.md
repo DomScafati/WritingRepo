@@ -1,0 +1,1 @@
+How nico feels about seeing Gloriya fight
