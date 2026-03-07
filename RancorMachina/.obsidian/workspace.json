@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Rancor Machina Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Rancor Machina Outline"
+            }
+          },
+          {
+            "id": "7a71e50646a70ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rancor Machina Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rancor Machina Outline"
+            }
+          },
+          {
+            "id": "3809b10cecc91be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manuscript 1st Draft/Chapter One.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter One"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,14 +212,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "0cc980e04201f451",
+  "active": "3809b10cecc91be8",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Outline.md",
+    "Rancor Machina Outline.md",
+    "Manuscript 1st Draft/Chapter One.md",
+    "Lines to use.md",
+    "Manuscript 1st Draft",
     "iOS Notes.md",
+    "Names.md",
+    "Outline.md",
+    "Welcome.md",
     "Chapter 1.md",
-    "Notes.md",
-    "Lie-Truth Template.md",
-    "Names.md"
+    "Lie-Truth Template.md"
   ]
 }

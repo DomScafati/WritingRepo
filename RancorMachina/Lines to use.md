@@ -1,0 +1,5 @@
+- 'Grace Shelby, defeated. Dead. September 28th, 2277'
+- "It's a late goodbye, but it's something. It's late but its..."
+- "Can a cold piece of metal like yourself feel fear? I sure hope so."
+- "Tell me, do I look like the people you killed? Do I look like her? Do I look like Grace? Tell me! Tell me! Tell me!"
+- 'The Twins, utterly defeated. Dead. September 28th, 2279'
