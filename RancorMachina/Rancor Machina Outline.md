@@ -9,7 +9,7 @@ From this chaos emerged the Arbiters, elite mech pilots trained to defend what r
 
 That hope did not last.
 
-Before reconstruction could truly take hold, two autonomous, AI-controlled war machines emerged. They are known only as The Twins. In their blitzkrieg, they killed every Arbiter but one: Grace Shelby. Unlike the mutants, they do not rage or conquer territory, they eradicate indiscriminately. They appear without warning, level settlements with mechanical precision, and disappear before organized resistance can form.
+Before reconstruction could truly take hold, two autonomous, AI-controlled war machines emerged. They are known only as The Twins. In their blitzkrieg, they killed every Arbiter but one: Grace Shelby. Unlike the mutants, they do not conquer territory for power, pillage cities for resources, or fight for a god. They eradicate indiscriminately. They appear without warning, level settlements with mechanical precision, and disappear before organized resistance can form.
 
 The Twins have ensured that every attempt at rebuilding ends in devastation. Humanity is now physically diminished and morally exhausted, surviving in scattered enclaves that expect destruction as a matter of course.
 

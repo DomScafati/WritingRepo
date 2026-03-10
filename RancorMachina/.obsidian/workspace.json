@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rancor Machina Outline.md",
+                "file": "Manuscript 1st Draft/Chapter One.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rancor Machina Outline"
+              "title": "Chapter One"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manuscript 1st Draft/Chapter One.md",
+                "file": "Rancor Machina Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter One"
+              "title": "Rancor Machina Outline"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +212,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3809b10cecc91be8",
+  "active": "7a71e50646a70ef8",
   "lastOpenFiles": [
     "Rancor Machina Outline.md",
     "Manuscript 1st Draft/Chapter One.md",
